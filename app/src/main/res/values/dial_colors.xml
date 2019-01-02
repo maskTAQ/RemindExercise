@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialContainer">#e8e9f3</color>
+    <color name="pathway">#dadbe5</color>
+    <color name="point">#89bffb</color>
+    <color name="scale_container">#ffffff</color>
+    <color name="dial_title_container">#d5dae4</color>
+    <color name="dial_title">#fdfdfd</color>
+    <color name="scale">#a1bead</color>
+</resources>
